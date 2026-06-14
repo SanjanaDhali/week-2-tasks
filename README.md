@@ -57,7 +57,13 @@ Future Improvements
 - Improve accessibility features
 - Add animations and advanced UI components
 
-Author
+Live Link
+(https://sanjanadhali.github.io/week-2-tasks/)
 
+Repository Link
+(https://github.com/SanjanaDhali/week-2-tasks)
+
+
+Author
 Sanjana Dhali
 
