@@ -1,0 +1,50 @@
+"Design Decisions Documentation"
+
+Project: Nexora Digital
+
+Overview :-
+
+Nexora Digital is a modern and responsive business website developed using HTML, CSS, and JavaScript. The website was designed to provide a professional online presence for a digital solutions company while ensuring a smooth user experience across different devices.
+
+Design Decisions :-
+
+1. Color Scheme
+
+A dark-themed interface was selected to create a modern and premium appearance. Purple and cyan gradient accents were used throughout the website to represent innovation, technology, and creativity while maintaining strong visual contrast and readability.
+
+2. Typography
+
+The Poppins font family was chosen because of its clean, modern, and professional appearance. It improves readability and creates a consistent visual identity across all pages.
+
+3. Layout Structure
+
+The website follows a structured layout consisting of:
+
+- Navigation Bar
+- Hero Section
+- Features Section
+- Statistics Section
+- Call-to-Action Section
+- Footer
+
+This structure allows users to quickly understand the company's services and navigate the website efficiently.
+
+4. Responsive Design
+
+Responsiveness was implemented using CSS Grid, Flexbox, and Media Queries. The layout automatically adapts to desktop, tablet, and mobile devices to ensure a consistent user experience on different screen sizes.
+
+5. User Experience
+
+Interactive hover effects were added to cards and buttons to improve engagement and provide visual feedback. Clear navigation links help users move between pages easily.
+
+6. Visual Elements
+
+Card-based sections were used to organize content in a clean and modern way. Soft shadows, rounded corners, and subtle glassmorphism effects were included to enhance the overall appearance without affecting usability.
+
+7. Performance Considerations
+
+The project was built using HTML, CSS, and JavaScript without heavy frameworks. This keeps the website lightweight, fast-loading, and easy to maintain.
+
+Conclusion :-
+
+The design focuses on professionalism, responsiveness, readability, and user engagement. The final result is a modern business website that delivers a clean user experience across all devices.
