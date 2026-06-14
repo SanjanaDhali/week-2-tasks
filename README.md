@@ -25,14 +25,13 @@ Technologies Used
 - Google Fonts
 
 Project Structure
-
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── style.css
-├── script.js
-└── assets/
+─ index.html
+─ about.html
+─ services.html
+─ contact.html
+─ style.css
+─ script.js
+─ assets/
 
 How to Run the Project
 
@@ -62,6 +61,3 @@ Author
 
 Sanjana Dhali
 
-License
-
-This project is created for educational and learning purposes.
