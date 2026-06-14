@@ -1,5 +1,7 @@
 Responsive Company Website
 
+NEXORA
+
 Overview
 
 This project is a fully responsive company website designed and developed using HTML, CSS, and JavaScript. The website provides a modern and user-friendly interface that adapts seamlessly to different screen sizes, including desktops, tablets, and mobile devices.
